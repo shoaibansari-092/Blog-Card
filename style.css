@@ -26,6 +26,9 @@ body{
 .sub p{
    font-size: 16px;
 }
+.profile{
+    margin-top: -10px;
+}
 .profile img{
     height: 35px;
     margin-top: 18px;
